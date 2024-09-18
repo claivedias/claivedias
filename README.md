@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**claivedias/claivedias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Certificado: Scrum Master e Scrum Product Owner
 
 • Conhecimento das seguintes áreas de negócios: Faturamento, Compras, Recursos Humanos, Financeiro, Comercial, Informações Gerenciais e Workflow de Processos.
@@ -54,4 +51,3 @@ Certificado: Scrum Master e Scrum Product Owner
 • Oracle 10 - Teknosoftware
 • VPN
 • Aprendendo por minha conta a desenvolver projetos em iOS e Android
--->
