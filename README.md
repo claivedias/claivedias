@@ -6,6 +6,7 @@
 
 • Scrum Master
 
+
 **DevOps** 
 
 • Instalação e migração do Team Foundation Server para o Azure DevOps Server;
@@ -43,6 +44,7 @@
 • Desenvolvimento de scripts em Python e Power Shell; 
 
 • Desenvolvimento de API para integração de sistemas.
+
 
 **Tech Lead**
 
@@ -91,5 +93,6 @@
 • Criação de templates VSIX para padrões de projetos no visual studio;
 
 • Apoio time de Scrum sobre as customizações e orientações Técnicas relacionadas a serviços e templates do Azure DevOps.
+
 
 **Competências:** Microsoft Copilot · JavaScript · Java · Depuração · HTML · CSS · MySQL · Resolução de problemas · Microsserviços · Ciência da computação · Manutenção de sistemas · Controle de versão · CMMI (Modelo integrado de maturidade em capacitação) · Scrum · SOA (Arquitetura voltada para serviços) · Microsoft Reporting Service · ASP.NET · Python · DevOps · .NET Core · API de ASP.NET para Web · Transact-SQL · Azure DevOps · Entity Framework · Desenvolvimento de software · Programação orientada a objetos (POO) · Banco de dados · ASP.NET Core · Microsoft Visual Studio · Modelagem de dados · SCRUM · ASP.NET MVC · C# · TFS · SQL · JSON
