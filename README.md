@@ -18,24 +18,43 @@ Certificado: Scrum Master e Scrum Product Owner
  Bom relacionamento interpessoal, em todos os níveis.
 
 • Experiência em modelagem de dados
+
 • Curso de Analista de Negócios em 2011 pela CompanyWeb
+
 • Programação ASP
+
 • Programação SQL Server - Teknosoftware
+
 • Visual Basic e Dot Net
+
 • Windows 2000, 2003, 2008 Server
+
 • Crystal Reports
+
 • Microsoft Visio
+
 • Microsoft Project
+
 • Microsoft Visual Source Safe / TFS / SVN
+
 • VB.Net 
+
 • UML - Teknosoftware
+
 • Análise funcional, análise técnica, análise de impacto, métrica e check list
+
 • SQL Sever
+
 • Modelagem de Dados 
+
 • JSP - Teknosoftware
+
 • Microsoft Visio 
+
 • Front Page 
+
 • MS-Project 
+
 • Dreanweaver
 • PagueSeguro - UOL 2008
 • iOS (iPhone, iPad, iPod)
