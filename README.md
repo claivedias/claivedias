@@ -1,86 +1,52 @@
 ## Hi there 👋
 
-Certificado: Scrum Master e Scrum Product Owner
+##Gestão
+• Scrum Product Owner (PO)
+• Scrum Master
 
-• Conhecimento das seguintes áreas de negócios: Faturamento, Compras, Recursos Humanos, Financeiro, Comercial, Informações Gerenciais e Workflow de Processos.
+##DevOps 
+• Instalação e migração do Team Foundation Server para o Azure DevOps Server;
+• Gerenciamento e monitoramento do Azure DevOps;
+• Criação de Pipelines Rest API no Azure DevOps;
+• Criação de estratégias de entrega de software utilizando Git WorkFlow com Azure Pipelines;
+• Gerenciamento criação e migração de repositórios do TFVC para o Git;
+• Automatização na implantação de Aplicações Web e Web APi em servidores Linux e Windows, através de serviços PaaS com pipelines de integração e entrega contínua (CI,CD);
+• Automatização na implantação de projetos de banco de dados SQL através com pacotes DACPAC utilizando serviços PaaS e pipelines de integração e entrega contínua (CI,CD);
+• Atualizações de Process Template do Scrum, Agile e CMMI;
+• Instalação e configuração de Agent de serviços para pipelines de Integração e entrega contínua CI, CD;
+• Desenvolvimento de Dashboard para controle e monitoramento no Azure DevOps.
 
-• Experiência em empresas do ramo comercial, financeiro, transporte, segurança e Hospitalar.
+##Análise e Desenvolvimento
+• Atuação no desenvolvimento de aplicações web e banco de dados;
+• Desenvolvimento de soluções com API Python; 
+• Desenvolvimento e manutenção de sistemas legados utilizando C Sharp com .Net Framework, .Net Core, Bootstrap, HTML, CSS, JQuery e Java Script.
+• Desenvolvimento com instruções DDL e DML para modelagem de dados, consultas SQL e criação de Stored Procedures; 
+• Desenvolvimento de scripts em Python e Power Shell; 
+• Desenvolvimento de API para integração de sistemas.
 
-• Elaboração de cronogramas, e outros documentos relacionados a projetos baseados nas melhores práticas do PMI.
+##Tech Lead
+• Apoio ao time de desenvolvimento sobre boas prática e resolução de problemas;
+• Produção de conteúdo em vídeo aulas sobre processos e boas práticas na entrega de produtos utilizando o Azure DevOps Server, Git e implementação de códigos;
+• Criação de templates VSIX para padrões de projetos no visual studio;
+• Apoio time de Scrum sobre as customizações e orientações Técnicas relacionadas a serviços e templates do Azure DevOps.Engenharia de Software | DevOps
+• Instalação e migração do Team Foundation Server para o Azure DevOps Server;
+• Gerenciamento e monitoramento do Azure DevOps;
+• Criação de Pipelines Rest API no Azure DevOps;
+• Criação de estratégias de entrega de software utilizando Git WorkFlow com Azure Pipelines;
+• Gerenciamento criação e migração de repositórios do TFVC para o Git;
+• Automatização na implantação de Aplicações Web e Web APi em servidores Linux e Windows, através de serviços PaaS com pipelines de integração e entrega contínua (CI,CD);
+• Automatização na implantação de projetos de banco de dados SQL através com pacotes DACPAC utilizando serviços PaaS e pipelines de integração e entrega contínua (CI,CD);
+• Atualizações de Process Template do Scrum, Agile e CMMI;
+• Instalação e configuração de Agent de serviços para pipelines de Integração e entrega contínua CI, CD; • Desenvolvimento de Dashboard para controle e monitoramento no Azure DevOps. Análise e Desenvolvimento
+• Atuação no desenvolvimento de aplicações web e banco de dados;
+• Desenvolvimento de soluções com Meraki Cisco Dashboard API Python;
+• Desenvolvimento e manutenção de sistemas legados utilizando C Sharp com .Net Framework, .Net Core, Bootstrap, HTML, CSS, JQuery e Java Script.
+• Desenvolvimento com instruções DDL e DML para modelagem de dados, consultas SQL e criação de Stored Procedures;
+• Desenvolvimento de scripts em Python e Power Shell;
+• Desenvolvimento de API para integração de sistemas. Tech Lead
+• Apoio ao time de desenvolvimento sobre boas prática e resolução de problemas;
+• Produção de conteúdo em vídeo aulas sobre processos e boas práticas na entrega de produtos utilizando o Azure DevOps Server, Git e implementação de códigos;
+• Criação de templates VSIX para padrões de projetos no visual studio;
+• Apoio time de Scrum sobre as customizações e orientações Técnicas relacionadas a serviços e templates do Azure DevOps.
 
-• Bom relacionamento interpessoal tanto no contato com usuários quanto no contato com fornecedores e clientes externos.
-
-• Capacidade de negociação e criatividade na solução de problemas.
-
-• Devido à grande experiência técnica, possuo facilidade em transmitir à área técnica as necessidades dos usuários/clientes e também em estimar prazos mais precisos de desenvolvimento de rotinas de programação.
-
-• Dinamismo, criatividade, autodidata e visão global e liderança de equipes de trabalho .
- Bom relacionamento interpessoal, em todos os níveis.
-
-• Experiência em modelagem de dados
-
-• Curso de Analista de Negócios em 2011 pela CompanyWeb
-
-• Programação ASP
-
-• Programação SQL Server - Teknosoftware
-
-• Visual Basic e Dot Net
-
-• Windows 2000, 2003, 2008 Server
-
-• Crystal Reports
-
-• Microsoft Visio
-
-• Microsoft Project
-
-• Microsoft Visual Source Safe / TFS / SVN
-
-• VB.Net 
-
-• UML - Teknosoftware
-
-• Análise funcional, análise técnica, análise de impacto, métrica e check list
-
-• SQL Sever
-
-• Modelagem de Dados 
-
-• JSP - Teknosoftware
-
-• Microsoft Visio 
-
-• Front Page 
-
-• MS-Project 
-
-• Dreanweaver
-
-• PagueSeguro - UOL 2008
-
-• iOS (iPhone, iPad, iPod)
-
-• Oracle 10
-
-• Android
-
-• C#
-
-• IIS
-
-• Microsoft Exchange Server
-
-• MySQL
-
-• Comunicação OFC e OFX Bancário
-
-• Integração SAP
-
-• Windows Mobile/Phone
-
-• Oracle 10 - Teknosoftware
-
-• VPN
-
-• Aprendendo por minha conta a desenvolver projetos em iOS e Android
+##Competências: JavaScript · Java · Depuração · HTML · CSS · MySQL · Resolução de problemas · Microsserviços · Ciência da computação · Manutenção de sistemas · Controle de versão · CMMI (Modelo integrado de maturidade em capacitação) · Scrum · SOA (Arquitetura voltada para serviços) · Microsoft Reporting Service · ASP.NET · Python · DevOps · .NET Core · API de ASP.NET para Web · Transact-SQL · Azure DevOps · Entity Framework · Desenvolvimento de software · Programação orientada a objetos (POO) · Banco de dados · ASP.NET Core · Microsoft Visual Studio · Modelagem de dados · SCRUM · ASP.NET MVC · C# · TFS · SQL · JSON
