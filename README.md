@@ -56,17 +56,31 @@ Certificado: Scrum Master e Scrum Product Owner
 • MS-Project 
 
 • Dreanweaver
+
 • PagueSeguro - UOL 2008
+
 • iOS (iPhone, iPad, iPod)
+
 • Oracle 10
+
 • Android
+
 • C#
+
 • IIS
+
 • Microsoft Exchange Server
+
 • MySQL
+
 • Comunicação OFC e OFX Bancário
+
 • Integração SAP
+
 • Windows Mobile/Phone
+
 • Oracle 10 - Teknosoftware
+
 • VPN
+
 • Aprendendo por minha conta a desenvolver projetos em iOS e Android
