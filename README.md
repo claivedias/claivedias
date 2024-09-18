@@ -30,6 +30,8 @@
 
 **Análise e Desenvolvimento**
 
+• Desenvolvimento de soluções com Microsoft Copilot; 
+
 • Atuação no desenvolvimento de aplicações web e banco de dados;
 
 • Desenvolvimento de soluções com API Python; 
@@ -90,4 +92,4 @@
 
 • Apoio time de Scrum sobre as customizações e orientações Técnicas relacionadas a serviços e templates do Azure DevOps.
 
-**Competências:** JavaScript · Java · Depuração · HTML · CSS · MySQL · Resolução de problemas · Microsserviços · Ciência da computação · Manutenção de sistemas · Controle de versão · CMMI (Modelo integrado de maturidade em capacitação) · Scrum · SOA (Arquitetura voltada para serviços) · Microsoft Reporting Service · ASP.NET · Python · DevOps · .NET Core · API de ASP.NET para Web · Transact-SQL · Azure DevOps · Entity Framework · Desenvolvimento de software · Programação orientada a objetos (POO) · Banco de dados · ASP.NET Core · Microsoft Visual Studio · Modelagem de dados · SCRUM · ASP.NET MVC · C# · TFS · SQL · JSON
+**Competências:** Microsoft Copilot · JavaScript · Java · Depuração · HTML · CSS · MySQL · Resolução de problemas · Microsserviços · Ciência da computação · Manutenção de sistemas · Controle de versão · CMMI (Modelo integrado de maturidade em capacitação) · Scrum · SOA (Arquitetura voltada para serviços) · Microsoft Reporting Service · ASP.NET · Python · DevOps · .NET Core · API de ASP.NET para Web · Transact-SQL · Azure DevOps · Entity Framework · Desenvolvimento de software · Programação orientada a objetos (POO) · Banco de dados · ASP.NET Core · Microsoft Visual Studio · Modelagem de dados · SCRUM · ASP.NET MVC · C# · TFS · SQL · JSON
